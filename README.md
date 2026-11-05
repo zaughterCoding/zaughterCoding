@@ -51,7 +51,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | 🛒 [**OrderWeave**](https://github.com/zaughterCoding/OrderWeave) | Stateful multi-agent retail support agent: verifies identity, then executes order changes via two-phase confirmed writes. τ²-bench retail pass^1 **0.822**, 0 unconfirmed writes in 503 | `LangGraph` `MCP` `Python` |
-| 🧩 [**Tessera AI Platform**](https://github.com/zaughterCoding/Tessera-AI-Platform) | AI creation platform where flash-sale credit packs meet fair-scheduled image generation: no-oversell flash sales, AIMD adaptive concurrency, exactly-once settlement. Light-user P95 queue wait **62.5s → 1.8s** | `Java` `Spring Boot` `Redis` `RocketMQ` `Next.js` |
+| 🧩 [**Tessera AI Platform**](https://github.com/zaughterCoding/Tessera-AI-Platform) | AI creation platform with flash-sale credit packs and fair-scheduled image generation: no-oversell campaigns, ledger-grade credit accounting, AIMD adaptive concurrency, outbox messaging, five-layer caching. Light-user P95 queue wait **62.5s → 1.8s** | `Spring Boot 4` `Next.js 16` `Redis` `RocketMQ` `Docker` |
 | 📄 [**AI-Paper-QA**](https://github.com/zaughterCoding/AI-Paper-QA) | Production-style paper QA backend with an evaluation harness for grounded RAG retrieval | `FastAPI` `pgvector` `Python` |
 | ✍️ [**Chinese Handwriting Assessment**](https://github.com/zaughterCoding/Automatic-Chinese-Handwriting-Quality-Assessment-with-VLMs) | Handwriting quality scoring & feedback with Qwen2.5-VL, LoRA, and skeleton-enhanced preprocessing | `Qwen2.5-VL` `LoRA` `PyTorch` |
 | 🖼️ [**md2pic**](https://github.com/zaughterCoding/md2pic) | Turn Markdown notes into multi-column images for social media — code, tables, Mermaid, live preview | `JavaScript` |
