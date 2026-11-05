@@ -26,7 +26,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Master's student in Computer Science at **USC**
-- 🤖 Focused on **LLM Agents**, **RAG**, and **multimodal models (VLM)**
+- 🤖 Focused on **LLM Agents**, **RAG**, and **Backend & Full-Stack Development**
 - 🛠️ Like turning research ideas into tools people actually use — from backends to desktop apps
 - 🌱 Currently exploring multi-agent orchestration, evaluation harnesses, and agentic reverse engineering
 - 💬 Ask me about LangGraph, MCP, retrieval pipelines, or LoRA fine-tuning
