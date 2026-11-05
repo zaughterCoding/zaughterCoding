@@ -6,7 +6,7 @@
 <!-- Typing intro -->
 <p align="center">
   <a href="https://github.com/zaughterCoding">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=620&lines=Building+LLM+Agents+%26+RAG+systems;LangGraph+%C2%B7+MCP+%C2%B7+FastAPI+%C2%B7+pgvector;Fine-tuning+VLMs+with+LoRA;Shipping+desktop+tools+in+Rust+%26+Python" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=620&lines=Building+LLM+Agents+%26+RAG+systems;LangGraph+%C2%B7+MCP+%C2%B7+FastAPI+%C2%B7+pgvector;Building+high-concurrency+backends+with+Spring+Boot;Shipping+desktop+tools+in+Rust+%26+Python" alt="typing intro" />
   </a>
 </p>
 
