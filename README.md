@@ -34,7 +34,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,rust,js,ts,fastapi,postgres,docker,linux,git,vscode&perline=10" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,rust,ts,js,fastapi,spring,nextjs,postgres,mysql,redis,kafka,docker,linux,git&perline=15" alt="tech stack" />
 </p>
 
 <p align="left">
@@ -50,7 +50,8 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🛒 [**OrderWeave**](https://github.com/zaughterCoding/OrderWeave) | Multi-agent retail customer-service system: order lookup, return confirmation & submission, transaction recovery, hybrid retrieval | `LangGraph` `MCP` `Python` |
+| 🛒 [**OrderWeave**](https://github.com/zaughterCoding/OrderWeave) | Stateful multi-agent retail support agent: verifies identity, then executes order changes via two-phase confirmed writes. τ²-bench retail pass^1 **0.822**, 0 unconfirmed writes in 503 | `LangGraph` `MCP` `Python` |
+| 🧩 [**Tessera AI Platform**](https://github.com/zaughterCoding/Tessera-AI-Platform) | AI creation platform where flash-sale credit packs meet fair-scheduled image generation: no-oversell flash sales, AIMD adaptive concurrency, exactly-once settlement. Light-user P95 queue wait **62.5s → 1.8s** | `Java` `Spring Boot` `Redis` `RocketMQ` `Next.js` |
 | 📄 [**AI-Paper-QA**](https://github.com/zaughterCoding/AI-Paper-QA) | Production-style paper QA backend with an evaluation harness for grounded RAG retrieval | `FastAPI` `pgvector` `Python` |
 | ✍️ [**Chinese Handwriting Assessment**](https://github.com/zaughterCoding/Automatic-Chinese-Handwriting-Quality-Assessment-with-VLMs) | Handwriting quality scoring & feedback with Qwen2.5-VL, LoRA, and skeleton-enhanced preprocessing | `Qwen2.5-VL` `LoRA` `PyTorch` |
 | 🖼️ [**md2pic**](https://github.com/zaughterCoding/md2pic) | Turn Markdown notes into multi-column images for social media — code, tables, Mermaid, live preview | `JavaScript` |
