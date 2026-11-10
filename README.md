@@ -56,7 +56,7 @@
 | ✍️ [**Chinese Handwriting Assessment**](https://github.com/zaughterCoding/Automatic-Chinese-Handwriting-Quality-Assessment-with-VLMs) | Handwriting quality scoring & feedback with Qwen2.5-VL, LoRA, and skeleton-enhanced preprocessing | `Qwen2.5-VL` `LoRA` `PyTorch` |
 | 🖼️ [**md2pic**](https://github.com/zaughterCoding/md2pic) | Turn Markdown notes into multi-column images for social media — code, tables, Mermaid, live preview | `JavaScript` |
 | 🐋 [**Deepseek-Whale-Desk**](https://github.com/zaughterCoding/Deepseek-Whale-Desk) | Desktop pet showing DeepSeek quota, peak hours, and Codex usage limits in real time | `Rust` |
-| 🎧 [**ASMR-Auto-Cut**](https://github.com/zaughterCoding/ASMR-Auto-Cut) | Local desktop app that detects speech/inactive segments and auto-cuts livestream recordings | `Python` |
+| 📔 [**DiaryLens**](https://github.com/zaughterCoding/DiaryLens) | Turn your diary into an interactive timeline with your own LLM API — tasks, habits, mood & weekly reviews. Fully client-side, data stays in your browser | `TypeScript` `Vite` `LLM API` |
 
 ### 📊 GitHub Stats
 
